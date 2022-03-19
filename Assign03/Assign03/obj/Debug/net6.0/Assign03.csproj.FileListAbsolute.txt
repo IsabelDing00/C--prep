@@ -1,0 +1,15 @@
+D:\Antra\C# - Assignments\Assign03\Assign03\bin\Debug\net6.0\Assign03.exe
+D:\Antra\C# - Assignments\Assign03\Assign03\bin\Debug\net6.0\Assign03.deps.json
+D:\Antra\C# - Assignments\Assign03\Assign03\bin\Debug\net6.0\Assign03.runtimeconfig.json
+D:\Antra\C# - Assignments\Assign03\Assign03\bin\Debug\net6.0\Assign03.dll
+D:\Antra\C# - Assignments\Assign03\Assign03\bin\Debug\net6.0\Assign03.pdb
+D:\Antra\C# - Assignments\Assign03\Assign03\obj\Debug\net6.0\Assign03.csproj.AssemblyReference.cache
+D:\Antra\C# - Assignments\Assign03\Assign03\obj\Debug\net6.0\Assign03.GeneratedMSBuildEditorConfig.editorconfig
+D:\Antra\C# - Assignments\Assign03\Assign03\obj\Debug\net6.0\Assign03.AssemblyInfoInputs.cache
+D:\Antra\C# - Assignments\Assign03\Assign03\obj\Debug\net6.0\Assign03.AssemblyInfo.cs
+D:\Antra\C# - Assignments\Assign03\Assign03\obj\Debug\net6.0\Assign03.csproj.CoreCompileInputs.cache
+D:\Antra\C# - Assignments\Assign03\Assign03\obj\Debug\net6.0\Assign03.dll
+D:\Antra\C# - Assignments\Assign03\Assign03\obj\Debug\net6.0\refint\Assign03.dll
+D:\Antra\C# - Assignments\Assign03\Assign03\obj\Debug\net6.0\Assign03.pdb
+D:\Antra\C# - Assignments\Assign03\Assign03\obj\Debug\net6.0\Assign03.genruntimeconfig.cache
+D:\Antra\C# - Assignments\Assign03\Assign03\obj\Debug\net6.0\ref\Assign03.dll
